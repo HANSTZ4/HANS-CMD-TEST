@@ -106289,18 +106289,18 @@
 
 
 {
-  "name": "BMW-MD",
+  "name": "HANS-MD",
   "version": "10.8.1",
-  "description": "BMW-MD latest multi device whatsapp bot",
+  "description": "HANS-MD latest multi device whatsapp bot",
   "main": "body.js",
   "type": "module",
   "scripts": {
-    "start": "pm2 start body.js --deep-monitoring --attach --name BMW-MD",
-    "stop": "pm2 stop BMW-MD",
-    "restart": "pm2 restart BMW-MD"
+    "start": "pm2 start body.js --deep-monitoring --attach --name HANS-MD",
+    "stop": "pm2 stop HANS-MD",
+    "restart": "pm2 restart HANS-MD"
   },
-  "keywords": ["bmw-md", "whatsapp-bot", "whatsapp md bot"],
-  "author": "Ibrahim Adams",
+  "keywords": ["Hans-md", "whatsapp-bot", "whatsapp md bot"],
+  "author": "Hans Tz",
   "license": "ISC",
   "dependencies": {
     "@ffmpeg-installer/ffmpeg": "^1.1.0",

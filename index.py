@@ -60973,10 +60973,10 @@
 #!/usr/adams
 
 """
-Author             : Sir Ibrahim Adams
-contact            : ibraahadams@gmail.com
-Github             : https://github.com/devibraah
-my youtube channel : Youtube.com/@ibrahimaitech
+Author             : Sir Hans Tz
+contact            : hanstztech@gmail.com
+Github             : https://whatsapp.com/channel/0029VajweHxKQuJP6qnjLM31
+my whatsapp channel : Youtube.com/@ibrahimaitech
 
 subcribe my youtube Channel to learn ethical Hacking ^_^
 """
